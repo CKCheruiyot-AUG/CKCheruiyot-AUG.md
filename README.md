@@ -55,6 +55,11 @@ Developer tools & Testing
     + Jupiter Notebook
     + Pytest
 
+# My Tool Ecosystem
++ Git for code repository and version control
++ CI/CD Workflow Automations
++ GitHub pages
+
 # Where can you find me?
 [![Gmail](https://shields.io)](mailto:cheruiyotchris537@gmail.com)
 [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/chris-cheruiyot-24850936b/)
