@@ -1,5 +1,6 @@
-# Hi there! I am Chris, I find stories in data.
+# Hi there! 
 # Who am I?
++ My name is Cheruiyot and I find stories in data.
 + A Data Analyst based in Kenya.
 + Having 5+ years of data handling, manipulation, modelling, analysis, storage & reporting.
 # My primary active development?
