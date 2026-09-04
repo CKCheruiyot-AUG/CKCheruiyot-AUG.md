@@ -23,26 +23,32 @@ Data Engineering & pipelines
     + Apache Airflow
     + PySpark
     + dbt
+
 Data Manipulation & Analytics
     + Pandas
     + Numpy
     + SciPy
+
 Database Integration & Storage
     + Apache Kafka
     + Boto3
     + SQLAlchemy
     + Cloud Datawarehouses.
+
 Data Visualization & Reporting
     + Matplotlib
     + Seaborn
     + Tableau
     + Microsoft PowerBI
+
 Machine Learning & Advanced Analytics
     + Scikit-learn
     + Statsmodel
+
 Developer tools & Testing
     + Jupiter Notebook
     + Pytest
+
 # Where can you find me?
 [![Gmail](https://shields.io)](mailto:cheruiyotchris537@gmail.com)
 [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/chris-cheruiyot-24850936b/)
