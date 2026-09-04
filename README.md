@@ -44,5 +44,6 @@
     + Jupiter Notebook
     + Pytest
 # Where can you find me?
-    [![Gmail](https://shields.io)](mailto:cheruiyotchris537@gmail.com)
-    [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/chris-cheruiyot-24850936b/)
+[![Gmail](https://shields.io)](mailto:cheruiyotchris537@gmail.com)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/chris-cheruiyot-24850936b/)
+
