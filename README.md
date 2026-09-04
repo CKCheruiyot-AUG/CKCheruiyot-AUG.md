@@ -20,32 +20,38 @@
 + Scala
 # Libraries & Tools
 Data Engineering & pipelines
+    
     + Apache Airflow
     + PySpark
     + dbt
 
 Data Manipulation & Analytics
+    
     + Pandas
     + Numpy
     + SciPy
 
 Database Integration & Storage
+    
     + Apache Kafka
     + Boto3
     + SQLAlchemy
     + Cloud Datawarehouses.
 
 Data Visualization & Reporting
+    
     + Matplotlib
     + Seaborn
     + Tableau
     + Microsoft PowerBI
 
 Machine Learning & Advanced Analytics
+    
     + Scikit-learn
     + Statsmodel
 
 Developer tools & Testing
+    
     + Jupiter Notebook
     + Pytest
 
