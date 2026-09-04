@@ -1,4 +1,5 @@
 # README.md
+# Hi there! I am Chris, I find stories in data.
 # Who am I?
 + A Data Analyst based in Kenya.
 + Having 5+ years of data handling, manipulation, modelling, analysis, storage & reporting.
